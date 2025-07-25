@@ -29,7 +29,7 @@ author:
   location         : "South Korea"
   employer         : "Institute for Basic Science"
   uri              : # URL
-  email            : "heminxi@ibs.re.kr" 
+  email            : #"heminxi@ibs.re.kr" 
 
   # Academic websites
   academia         : "https://inspirehep.net/authors/1666163"
