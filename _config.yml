@@ -24,8 +24,8 @@ author:
   # Biographic information
   avatar           : profile.png
   name             : "Minxi He"
-  pronouns         : "he/him"  
-  bio              : "Life isn't long enough for love and art."
+  pronouns         : #"he/him"  
+  bio              : "Life isn't long enough for love and art. --W. Somerset Maugham"
   location         : "South Korea"
   employer         : "Institute for Basic Science"
   uri              : # URL
