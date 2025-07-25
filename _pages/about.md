@@ -21,17 +21,12 @@ Life
 ======
 I was born in the smallest town in Dongguan City (东莞市) called Shilong (石龙), in Guangdong Province (广东省), the southern part of China. Shilong is a historical town, famous for weightlifting sport and delicious food. Due to the short geographical distance from Hong Kong, we can easily access Hong Kong TV channels from home, which plays an important role in my childhood. I finished my elementary school, junior and senior high schools in Dongguan, and moved to University of Science and Technology of China (USTC) in Hefei for my undergraduate study. After graduation in 2015, I worked at Hong Kong University of Science and Technology with Prof. [Yi Wang](https://phyw.people.ust.hk) and USTC with Prof. [Yi-Fu Cai](http://staff.ustc.edu.cn/~yifucai/PageFrame/indexHome.html), respectively, before moving to Japan to graduate studies in 2016. 
 
-I like doing different kinds of sports, especailly badminton, cycling, and hiking. I have had a lot of great time and made good friends when playing these sports since I was in my high school. Unfortunately, there are no badminton courts in IBS, but I usually go to gym and play billiards with my friends, which is also of great fun. I enjoy pop, rock, and classial music, usually old-school ones, recently obsessed with Pink Floyd. I am learning guitar in an extremely slow way and I hope one day I can play my favorite songs. I also like playing video games like The Legend of Zelda and The Elder Scrolls, playing chess, and drawing. 
+I like doing different kinds of sports, especailly badminton, cycling, and hiking. I have had a lot of great time and made good friends when playing these sports since I was in my high school. Unfortunately, there are no badminton courts in IBS, but I usually go to gym and play billiards with my friends, which is also of great fun. I enjoy pop, rock, and classial music, usually old-school ones, recently obsessed with Pink Floyd. I am learning guitar in an extremely slow way and I hope one day I can play my favorite songs. I also like playing video games like The Legend of Zelda and The Elder Scrolls, singing, playing chess, and drawing, etc. 
 
-
+I do not drink.
 
 Contact
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+Email: heminxi_AT_ibs.re.kr
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
