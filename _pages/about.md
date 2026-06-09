@@ -26,6 +26,6 @@ I do not drink.
 
 Contact
 ------
-Email: heminxi_AT_nao.ac.jp
+Email: minxi.he_AT_nao.ac.jp
 
 
